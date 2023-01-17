@@ -1,0 +1,4 @@
+@font-face { font-family : 'Circular' ; src : url('https://6246908.fs1.hubspotusercontent-na1.net/hubfs/6246908/circular-std-medium-500.ttf') format('truetype');}
+*{
+  font-family: 'Circular' !!important
+}
